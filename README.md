@@ -81,3 +81,4 @@ Epoch 8
 
 ![Copy of SAGAN_train_08_10000](https://user-images.githubusercontent.com/23450113/115700490-040f4280-a367-11eb-963a-5047a999b6e7.png)
 
+More results are in  ""Generated_art_Images_Results"" directory
