@@ -1,6 +1,11 @@
 # Self-AttentionGAN_ArtGeneration
 Creative Art Generation using Self-Attention GAN's
 
+# Results
+Link to the generated art images after every 500th iteration
+
+https://drive.google.com/drive/u/1/folders/1-Llse4HTjfDX9rXsCEaBbsd3Jys6UjcK
+
 ## Application code
 The code in all contains 6 files. Below is the explanation to all of the files used in the project.
 
@@ -64,3 +69,6 @@ step 0:-At first change the HARDWARE ACCELERATOR TO GPU from runtime
 
 step 1:- from google.colab import drive 
 
+
+
+### RESULTS 
