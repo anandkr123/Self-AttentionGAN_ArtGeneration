@@ -72,3 +72,11 @@ step 1:- from google.colab import drive
 
 
 ### RESULTS 
+
+Epoch 7
+
+![Copy of SAGAN_train_07_00500](https://user-images.githubusercontent.com/23450113/115700513-083b6000-a367-11eb-884f-3b8aa1e58110.png)
+
+Epoch 8
+![Copy of SAGAN_train_08_10000](https://user-images.githubusercontent.com/23450113/115700490-040f4280-a367-11eb-963a-5047a999b6e7.png)
+
