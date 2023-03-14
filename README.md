@@ -65,10 +65,15 @@ Art dataset of images -  https://www.kaggle.com/c/painter-by-numbers/data inform
 
 In the untitled.ipynb file, run the below individual line as in a jupyter notebook
  
-step 0:-At first change the HARDWARE ACCELERATOR TO GPU from runtime 
+step 0:- At first change the HARDWARE ACCELERATOR TO GPU from runtime 
 
 step 1:- from google.colab import drive 
 
+step 3:- drive.mount('/content/gdrive')
+
+step 4:  %cd gdrive/<path to folder with scripts data>   e.g. %cd gdrive/My\ Drive/sagan/
+
+step 5:  Execute the required script as done from command line.
 
 
 ### RESULTS 
